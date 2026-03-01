@@ -114,7 +114,7 @@ gsutil versioning set on gs://my-sre-platform-tfstate
 ### 4. Clone and Configure
 
 ```bash
-git clone https://github.com/yourusername/sre-platform.git
+git clone https://github.com/ashishu19/sre-platform.git
 cd sre-platform/terraform
 ```
 
