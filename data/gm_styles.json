@@ -1,0 +1,212 @@
+{
+  "mikhail_tal": {
+    "name": "Mikhail Tal",
+    "title": "GM",
+    "archetype": "Tactical Attacker",
+    "style_vector": {
+      "piece_exchange_preference": -0.8,
+      "queen_activity": 0.9,
+      "pawn_advance_rate": 0.7,
+      "tactical_complexity": 0.95,
+      "endgame_entry_rate": 0.15
+    },
+    "description": "The Magician from Riga. You play for dynamic attacking chances, avoid piece trades, and keep queens on to create threats. Your games are chaotic and exciting.",
+    "study_tip": "Study Tal's games from the 1959 Candidates Tournament and his matches against Botvinnik. Focus on the psychology of pressure over pure calculation."
+  },
+  "anatoly_karpov": {
+    "name": "Anatoly Karpov",
+    "title": "GM",
+    "archetype": "Positional Constrictor",
+    "style_vector": {
+      "piece_exchange_preference": 0.5,
+      "queen_activity": 0.3,
+      "pawn_advance_rate": 0.35,
+      "tactical_complexity": 0.2,
+      "endgame_entry_rate": 0.75
+    },
+    "description": "The Boa Constrictor. You accumulate small advantages, trade into favorable endgames, and squeeze opponents without ever giving them counterplay.",
+    "study_tip": "Study Karpov vs Kasparov 1984-1985 World Championship. Read 'Karpov's Strategic Wins' by Tibor Karolyi."
+  },
+  "garry_kasparov": {
+    "name": "Garry Kasparov",
+    "title": "GM",
+    "archetype": "Dynamic Aggressor",
+    "style_vector": {
+      "piece_exchange_preference": -0.3,
+      "queen_activity": 0.85,
+      "pawn_advance_rate": 0.65,
+      "tactical_complexity": 0.85,
+      "endgame_entry_rate": 0.3
+    },
+    "description": "The Greatest of All Time. You combine deep preparation, dynamic pawn structures, and ferocious attacking play. You seek the initiative at every opportunity.",
+    "study_tip": "Work through 'My Great Predecessors' by Kasparov. Study his Sicilian Najdorf games for attacking templates."
+  },
+  "tigran_petrosian": {
+    "name": "Tigran Petrosian",
+    "title": "GM",
+    "archetype": "Strategic Defender",
+    "style_vector": {
+      "piece_exchange_preference": 0.7,
+      "queen_activity": 0.2,
+      "pawn_advance_rate": 0.25,
+      "tactical_complexity": 0.15,
+      "endgame_entry_rate": 0.8
+    },
+    "description": "Iron Tigran. You excel at prophylaxis — preventing opponent plans before they start. You trade pieces to neutralise attacks and grind in quiet positions.",
+    "study_tip": "Study Petrosian's 1963 World Championship match vs Botvinnik. Focus on his exchange sacrifices for long-term positional compensation."
+  },
+  "magnus_carlsen": {
+    "name": "Magnus Carlsen",
+    "title": "GM",
+    "archetype": "Universal Grinder",
+    "style_vector": {
+      "piece_exchange_preference": 0.1,
+      "queen_activity": 0.6,
+      "pawn_advance_rate": 0.45,
+      "tactical_complexity": 0.5,
+      "endgame_entry_rate": 0.65
+    },
+    "description": "The World Champion. You play universally well across all phases, preferring to outplay opponents in long technical endgames. Patience and precision define your style.",
+    "study_tip": "Study Carlsen's endgame technique in his World Championship defences. 'Magnus Carlsen: Move by Move' by Cyrus Lakdawala is excellent."
+  },
+  "bobby_fischer": {
+    "name": "Bobby Fischer",
+    "title": "GM",
+    "archetype": "Classical Perfectionist",
+    "style_vector": {
+      "piece_exchange_preference": 0.2,
+      "queen_activity": 0.65,
+      "pawn_advance_rate": 0.5,
+      "tactical_complexity": 0.7,
+      "endgame_entry_rate": 0.5
+    },
+    "description": "The American Legend. You seek perfect, logical chess — optimal piece placement, concrete calculation, and converting advantages with clinical precision.",
+    "study_tip": "Study 'My 60 Memorable Games' by Fischer. Pay special attention to his bishop vs knight endgame technique."
+  },
+  "viswanathan_anand": {
+    "name": "Viswanathan Anand",
+    "title": "GM",
+    "archetype": "Speed Tactician",
+    "style_vector": {
+      "piece_exchange_preference": -0.1,
+      "queen_activity": 0.8,
+      "pawn_advance_rate": 0.6,
+      "tactical_complexity": 0.8,
+      "endgame_entry_rate": 0.35
+    },
+    "description": "The Tiger of Madras. You play fast and tactically sharp, relying on opening preparation and rapid calculation to outmanoeuvre opponents before they settle.",
+    "study_tip": "Study Anand's rapid chess games and his Sicilian Najdorf preparation. His 2007-2010 World Championship performances are instructive."
+  },
+  "ding_liren": {
+    "name": "Ding Liren",
+    "title": "GM",
+    "archetype": "Solid Technician",
+    "style_vector": {
+      "piece_exchange_preference": 0.4,
+      "queen_activity": 0.45,
+      "pawn_advance_rate": 0.4,
+      "tactical_complexity": 0.45,
+      "endgame_entry_rate": 0.6
+    },
+    "description": "The World Champion from China. You play solidly and precisely, converting technical advantages with excellent endgame technique and avoiding unnecessary risks.",
+    "study_tip": "Study Ding's tournament wins, especially his 2023 Candidates performance. Focus on his rook endgame conversions."
+  },
+  "hikaru_nakamura": {
+    "name": "Hikaru Nakamura",
+    "title": "GM",
+    "archetype": "Aggressive Blitz Specialist",
+    "style_vector": {
+      "piece_exchange_preference": -0.4,
+      "queen_activity": 0.9,
+      "pawn_advance_rate": 0.7,
+      "tactical_complexity": 0.9,
+      "endgame_entry_rate": 0.2
+    },
+    "description": "The American Speedster. You attack relentlessly, keep maximum pieces on the board, and play for complications where your superior tactical vision shines.",
+    "study_tip": "Study Nakamura's speed chess games and his offbeat opening choices. His attacking games in the King's Indian are excellent attacking templates."
+  },
+  "fabiano_caruana": {
+    "name": "Fabiano Caruana",
+    "title": "GM",
+    "archetype": "Theoretical Powerhouse",
+    "style_vector": {
+      "piece_exchange_preference": 0.0,
+      "queen_activity": 0.7,
+      "pawn_advance_rate": 0.55,
+      "tactical_complexity": 0.75,
+      "endgame_entry_rate": 0.45
+    },
+    "description": "The American Challenger. You rely on deep opening preparation and sharp theoretical lines. Your games combine concrete calculation with strategic understanding.",
+    "study_tip": "Study Caruana's 2018 World Championship match preparation. His Petroff Defence and Sicilian Najdorf play are deeply instructive."
+  },
+  "paul_morphy": {
+    "name": "Paul Morphy",
+    "title": "GM",
+    "archetype": "Development Virtuoso",
+    "style_vector": {
+      "piece_exchange_preference": -0.6,
+      "queen_activity": 0.85,
+      "pawn_advance_rate": 0.5,
+      "tactical_complexity": 0.8,
+      "endgame_entry_rate": 0.1
+    },
+    "description": "The Pride and Sorrow of Chess. You prioritise rapid development and open lines for your pieces, attacking brilliantly with fully coordinated forces.",
+    "study_tip": "Study Morphy's famous Opera Game and his matches against Harrwitz and Anderssen. 'The Genius of Paul Morphy' by Chris Ward is highly recommended."
+  },
+  "jose_capablanca": {
+    "name": "José Capablanca",
+    "title": "GM",
+    "archetype": "Endgame Maestro",
+    "style_vector": {
+      "piece_exchange_preference": 0.6,
+      "queen_activity": 0.4,
+      "pawn_advance_rate": 0.3,
+      "tactical_complexity": 0.3,
+      "endgame_entry_rate": 0.85
+    },
+    "description": "The Human Chess Machine. You play with effortless clarity, trading into technically won endgames and converting advantages with perfect technique.",
+    "study_tip": "Study Capablanca's 1921 World Championship match vs Lasker and his 'Chess Fundamentals' book. His rook endgame technique is the gold standard."
+  },
+  "mikhail_botvinnik": {
+    "name": "Mikhail Botvinnik",
+    "title": "GM",
+    "archetype": "Scientific Strategist",
+    "style_vector": {
+      "piece_exchange_preference": 0.3,
+      "queen_activity": 0.5,
+      "pawn_advance_rate": 0.55,
+      "tactical_complexity": 0.5,
+      "endgame_entry_rate": 0.6
+    },
+    "description": "The Patriarch of Soviet Chess. You combine rigorous preparation, deep strategic planning, and concrete calculation — approaching chess scientifically.",
+    "study_tip": "Study Botvinnik's self-annotated games in 'One Hundred Selected Games'. His Nimzo-Indian and Queen's Gambit games are strategically rich."
+  },
+  "vasily_smyslov": {
+    "name": "Vasily Smyslov",
+    "title": "GM",
+    "archetype": "Harmonious Positional Player",
+    "style_vector": {
+      "piece_exchange_preference": 0.4,
+      "queen_activity": 0.35,
+      "pawn_advance_rate": 0.4,
+      "tactical_complexity": 0.35,
+      "endgame_entry_rate": 0.7
+    },
+    "description": "The Endgame Artist. You seek harmony in piece placement and trade into positions where your superb endgame technique gives you a natural edge.",
+    "study_tip": "Study Smyslov's 1957 World Championship win over Botvinnik. His rook and pawn endgames are textbook examples of technique."
+  },
+  "alexander_alekhine": {
+    "name": "Alexander Alekhine",
+    "title": "GM",
+    "archetype": "Attacking Genius",
+    "style_vector": {
+      "piece_exchange_preference": -0.7,
+      "queen_activity": 0.95,
+      "pawn_advance_rate": 0.75,
+      "tactical_complexity": 1.0,
+      "endgame_entry_rate": 0.1
+    },
+    "description": "The World Champion Attacker. You create incredibly complex positions, sacrificing material freely for long-term attacking chances. Your combinations are visionary.",
+    "study_tip": "Study Alekhine's 'My Best Games of Chess 1908-1937'. His attacking games vs Nimzowitsch and Capablanca reveal extraordinary combinational depth."
+  }
+}
